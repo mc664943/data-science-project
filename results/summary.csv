@@ -1,0 +1,7 @@
+﻿metric,value
+total_rows,9888621
+excess_refund,45706
+refund_no_payment,27995
+dup_creation,9203
+pay_after_cancel,2468
+flagged_unique_events,1196704
